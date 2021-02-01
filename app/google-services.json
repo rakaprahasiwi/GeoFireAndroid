@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457601492827",
+    "project_id": "geofiremultiplelocation-6032b",
+    "storage_bucket": "geofiremultiplelocation-6032b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457601492827:android:33bcdf88a51a803b395c7e",
+        "android_client_info": {
+          "package_name": "id.prahasiwi.geofiremultiplelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457601492827-ebi46qqlqimn3653fkn21341atndkq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlYFFz87fGauJgvTFcKWH1pu23aT26nrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457601492827-ebi46qqlqimn3653fkn21341atndkq0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
